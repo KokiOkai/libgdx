@@ -5,7 +5,7 @@
  * Do not make changes to this file unless you know what you are doing--modify
  * the SWIG interface file instead.
  * ----------------------------------------------------------------------------- */
-
+/*
 package com.badlogic.gdx.physics.bullet.collision;
 
 public class SWIGTYPE_p_f_r_btBroadphasePair_r_btCollisionDispatcher_r_q_const__btDispatcherInfo__void {
@@ -24,3 +24,4 @@ public class SWIGTYPE_p_f_r_btBroadphasePair_r_btCollisionDispatcher_r_q_const__
 		return (obj == null) ? 0 : obj.swigCPtr;
 	}
 }
+*/
