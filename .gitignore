@@ -91,4 +91,5 @@ natives.zip
 .settings
 
 # Ignore the problematic file
+extensions/gdx-bullet/jni/swig-src/collision/com/badlogic/gdx/physics/bullet/collision/SWIGTYPE_p_f_r_btBroadphasePair_r_btCollisionDispatcher_r_q_const__btDispatcherInfo__void.java
 extensions/gdx-bullet/jni/swig-src/collision/com/badlogic/gdx/physics/bullet/collision/SWIGTYPE_p_f_r_btBroadphasePair_r_btCollisionDispatcher_r_q_const__btDispatcherInfo__void!SWIGTYPE_p_f_r_btBroadphasePair_r_btCollisionDispatcher_r_q_const__btDispatcherInfo__void$SWIGTYPE_p_f_r_btBroadphasePair_r_btCollisionDispatcher_r_q_const__btDispatcherInfo__void(~30b7).method.java
