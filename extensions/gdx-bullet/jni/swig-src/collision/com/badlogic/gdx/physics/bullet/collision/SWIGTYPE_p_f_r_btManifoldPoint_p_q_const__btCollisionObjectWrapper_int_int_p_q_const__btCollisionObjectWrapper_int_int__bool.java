@@ -5,7 +5,7 @@
  * Do not make changes to this file unless you know what you are doing--modify
  * the SWIG interface file instead.
  * ----------------------------------------------------------------------------- */
-
+/*
 package com.badlogic.gdx.physics.bullet.collision;
 
 public class SWIGTYPE_p_f_r_btManifoldPoint_p_q_const__btCollisionObjectWrapper_int_int_p_q_const__btCollisionObjectWrapper_int_int__bool {
@@ -25,3 +25,4 @@ public class SWIGTYPE_p_f_r_btManifoldPoint_p_q_const__btCollisionObjectWrapper_
 		return (obj == null) ? 0 : obj.swigCPtr;
 	}
 }
+*/
