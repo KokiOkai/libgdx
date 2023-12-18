@@ -5,7 +5,7 @@
  * Do not make changes to this file unless you know what you are doing--modify
  * the SWIG interface file instead.
  * ----------------------------------------------------------------------------- */
-
+/*
 package com.badlogic.gdx.physics.bullet.dynamics;
 
 public class SWIGTYPE_p_f_p_btAlignedObjectArray__p_btSimulationIslandManagerMt__Island___p_btSimulationIslandManagerMt__IslandCallback__void {
@@ -25,3 +25,4 @@ public class SWIGTYPE_p_f_p_btAlignedObjectArray__p_btSimulationIslandManagerMt_
 		return (obj == null) ? 0 : obj.swigCPtr;
 	}
 }
+*/
