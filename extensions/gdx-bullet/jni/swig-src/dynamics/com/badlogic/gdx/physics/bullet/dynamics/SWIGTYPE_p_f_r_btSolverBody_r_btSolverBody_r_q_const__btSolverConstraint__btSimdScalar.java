@@ -5,7 +5,7 @@
  * Do not make changes to this file unless you know what you are doing--modify
  * the SWIG interface file instead.
  * ----------------------------------------------------------------------------- */
-
+/*
 package com.badlogic.gdx.physics.bullet.dynamics;
 
 public class SWIGTYPE_p_f_r_btSolverBody_r_btSolverBody_r_q_const__btSolverConstraint__btSimdScalar {
@@ -24,3 +24,4 @@ public class SWIGTYPE_p_f_r_btSolverBody_r_btSolverBody_r_q_const__btSolverConst
 		return (obj == null) ? 0 : obj.swigCPtr;
 	}
 }
+*/
